@@ -9,4 +9,4 @@ info notice for don't forget main moments
 6) make autorun
 7) add HOSTNAME
 8) read security / connect rest api / read async
-9) 
+9) CSRF_TRUSTED_ORIGINS = ['http://127.0.0.1', 'https://5547-149-27-178-216.ngrok-free.app']
